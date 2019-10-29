@@ -28,7 +28,7 @@ For development, as we mentioned you can run the dev server with the command **n
  
 ## Dependencies for Development
  
-* [Webpack](https://github.com/webpack/webpack) to bundler javascript files and a Webpack app in localhost://9000.
+* [Webpack](https://github.com/webpack/webpack) to bundle javascript, html, css and images files.
 * [Webpack-Web-Server](https://github.com/webpack/webpack-dev-server) serves a Webpack app in localhost://9000.
 
 # Happy Coding
