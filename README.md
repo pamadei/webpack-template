@@ -2,7 +2,7 @@
  
 ## Introduction:
  
-Welcome to the **Webpack App**. This is a Webpack template that can be used for a Vanilla JS application or if you wish you can add your favorite Framework/Library.
+Welcome to the **Webpack App**. This is a Webpack template that can be used for a Vanilla JS application or if you wish you can add your favorite library.
 
 ***
  
